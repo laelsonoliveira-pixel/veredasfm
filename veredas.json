@@ -3,18 +3,18 @@
 
   "ao_vivo": {
     "programa": "Manhã Veredas",
-    "locutor": "Carlos Veredas",
+    "locutor": "Leandro",
     "foto": "https://via.placeholder.com/200"
   },
 
   "programacao": [
     {
-      "dia": "segunda",
+      "dia": "quarta",
       "hora_inicio": "00:00",
       "hora_fim": "23:00",
       "programa": "Manhã Veredas",
       "locutor": "Leandro",
-      "foto": "https://via.placeholder.com/200"
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/leandro.jpg"
     }
   ],
 
