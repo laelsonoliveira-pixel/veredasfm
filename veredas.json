@@ -1,6 +1,23 @@
 {
-  "locutor": "Ao vivo agora",
-  "banner": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/Logo_veredas.png",
+  "logo": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/logo.png",
+
+  "ao_vivo": {
+    "programa": "Manhã Veredas",
+    "locutor": "Carlos Veredas",
+    "foto": "https://via.placeholder.com/200"
+  },
+
+  "programacao": [
+    {
+      "dia": "segunda",
+      "hora_inicio": "08:00",
+      "hora_fim": "12:00",
+      "programa": "Manhã Veredas",
+      "locutor": "Carlos Veredas",
+      "foto": "https://via.placeholder.com/200"
+    }
+  ],
+
   "promocoes": [
     {
       "titulo": "1 MIL NO PIX",
@@ -12,5 +29,7 @@
       "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/copa.jpeg",
       "link": "https://wa.me/556435562267"
     }
+  ]
+}
   ]
 }
