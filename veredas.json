@@ -102,6 +102,46 @@
       "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/autodj.jpg"
     },
     {
+      "dia": "sábado",
+      "hora_inicio": "00:00",
+      "hora_fim": "04:59",
+      "programa": "Companhia de Amigos",
+      "locutor": "Auto DJ",
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/autodj.jpg"
+    },
+    {
+      "dia": "sábado",
+      "hora_inicio": "05:00",
+      "hora_fim": "06:59",
+      "programa": "Musical",
+      "locutor": "Auto DJ",
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/autodj.jpg"
+    },
+    {
+      "dia": "sábado",
+      "hora_inicio": "07:00",
+      "hora_fim": "07:39",
+      "programa": "Missa",
+      "locutor": "Missa",
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/autodj.jpg"
+    },
+    {
+      "dia": "sábado",
+      "hora_inicio": "07:40",
+      "hora_fim": "11:59",
+      "programa": "Show da Manhã",
+      "locutor": "Leandro Gomes",
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/leandro.jpg"
+    },
+    {
+      "dia": "sábado",
+      "hora_inicio": "12:00",
+      "hora_fim": "23:59",
+      "programa": "36 Horas Sem Intervalo",
+      "locutor": "Auto DJ",
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/veredasfm/refs/heads/main/autodj.jpg"
+    },
+    {
       "dia": "domingo",
       "hora_inicio": "00:00",
       "hora_fim": "23:59",
